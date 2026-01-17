@@ -191,6 +191,12 @@ curl -X POST http://localhost:3000 \
 curl http://localhost:3000/PASTE_ID/raw
 ```
 
+## Support
+
+If you find this project useful, you can support its development by buying me a coffee! ☕
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_badges/orange_card.png)](https://buymeacoffee.com/sirayupetcha)
+
 ## License
 
 MIT License

@@ -6,19 +6,19 @@ A fast, secure, and lightweight pastebin service built with Rust.
 
 ### Homepage
 
-![Homepage](assets/screenshots/homepage.png)
+![Homepage](assets/screenshots/homepage_v1.png)
 
 ### Public Pastes
 
-![Public Pastes](assets/screenshots/public_pastes.png)
+![Public Pastes](assets/screenshots/public_pastes_v1.png)
 
 ### Dashboard (User History)
 
-![Dashboard](assets/screenshots/dashboard.png)
+![Dashboard](assets/screenshots/dashboard_v1.png)
 
 ### Code View (Syntax Highlighting)
 
-![View Paste](assets/screenshots/view_paste.png)
+![View Paste](assets/screenshots/view_paste_v1.png)
 
 ## Features
 

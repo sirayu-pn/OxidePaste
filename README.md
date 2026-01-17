@@ -2,6 +2,24 @@
 
 A fast, secure, and lightweight pastebin service built with Rust.
 
+## Screenshots
+
+### Homepage
+
+![Homepage](assets/screenshots/homepage.png)
+
+### Public Pastes
+
+![Public Pastes](assets/screenshots/public_pastes.png)
+
+### Dashboard (User History)
+
+![Dashboard](assets/screenshots/dashboard.png)
+
+### Code View (Syntax Highlighting)
+
+![View Paste](assets/screenshots/view_paste.png)
+
 ## Features
 
 - Fast and lightweight (single binary, ~5MB)

@@ -1,8 +1,10 @@
 [package]
 name = "oxide-paste"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2021"
+license = "MIT"
 description = "A fast and secure pastebin service built with Rust"
+authors = ["Sirayu Petcharanon"]
 
 [dependencies]
 axum = "0.7"
